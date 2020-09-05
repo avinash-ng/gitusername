@@ -1,0 +1,75 @@
+{
+      "room-types": [
+        {
+          "name": "Kitchen",
+          "photos": [
+            {
+              "aspect_ratio": "S",
+              "id": "unique id",
+              "data_uri": "TBD",
+              "model": "2019",
+              "updated_by": "Admin",
+              "updated_on": "timestamp",
+              "is_public": true,
+              "props": {}
+            }
+          ]
+        }
+      ],
+  
+      "layouts": [
+        {
+          "layout_name": "L-Shape",
+          "room_type": "Kitchen",
+          "photos": [
+            {
+              "aspect_ratio": "S",
+              "id": "unique id",
+              "data_uri": "TBD",
+              "model": "2019",
+              "updated_by": "Admin",
+              "updated_on": "timestamp",
+              "is_public": true,
+              "props": {}
+            }
+          ]
+        }
+      ],
+      
+      "styles": [
+        {
+          "name": "Studio",
+          "room_type": "Kitchen",
+          "description": "...",
+          "photos": [
+            {
+              "aspect_ratio": "S",
+              "id": "unqiue id",
+              "data_uri": "TBD",
+              "model": "2019",
+              "updated_by": "Admin",
+              "updated_on": "timestamp",
+              "props": {}
+            }
+          ],
+          "items": [
+            {
+              "name": "Fridge",
+              "description": "..",
+              "thumbnail_uri": "TBD",
+              "photos": [
+                {
+                  "aspect_ratio": "S",
+                  "id": "unique id",
+                  "data_uri": "TBD",
+                  "model": "2019",
+                  "updated_by": "Admin",
+                  "updated_on": "timestamp",
+                  "props": {}
+                }
+              ]
+            }
+          ]
+        }
+      ]
+  }
